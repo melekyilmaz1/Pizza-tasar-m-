@@ -1,1 +1,1 @@
-örnek pizzaApp arayüzü tasarımı
+Örnek pizzaApp arayüzü tasarımı
